@@ -6,7 +6,9 @@
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Roly-lol&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Roly-lol&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roly-lol&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
+<!-- <p > -->
 <a href="https://discord.com/users/997107672048484442"><img align="right" height="200px"src="https://lanyard.cnrad.dev/api/997107672048484442?borderRadius=20px&bg=00000000" alt="Discord" /></a>
+<!-- <p > -->
 
 Here are some ideas to get you started:
 
