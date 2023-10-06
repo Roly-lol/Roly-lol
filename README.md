@@ -9,6 +9,9 @@
 <!-- <p > -->
   <a href="https://discord.com/users/997107672048484442"> <img align="right" height="200px" src="https://lanyard.cnrad.dev/api/997107672048484442" alt="Discord Status"> </a>
 <!-- </p> -->
+<p align="center">
+  <img height="400px" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,html,css,c,cpp,csharp,rust,xml,json,yaml,postgresql,mysql,lua,graphql,markdown&theme=darkmode&includenames=true" alt="Languages" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
